@@ -23,7 +23,7 @@ options:
    2: Approve Offboarding, 60,700 DAI Golden Parachute and 100% Multiplier for retroactive MKR - additional 107,317.50 DAI (CU-preferred)
    3: Approve Offboarding, 60,700 DAI Golden Parachute and 120% Multiplier for retroactive MKR  - additional 128,781 DAI Equivalent Value
    4: Reject Options
-start_date: 2023-01-09T16:00:00
+start_date: 2023-01-09T14:00:00
 end_date: 2023-01-23T16:00:00
 ---
 # Ratification Poll for Core Unit Offboarding (COM-001) (MIP39c3-SP7) - January 9, 2023

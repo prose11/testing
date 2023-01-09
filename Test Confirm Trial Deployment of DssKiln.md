@@ -23,7 +23,7 @@ options:
    3: Burn 1 million DAI worth of MKR
    4: Burn 0.5 million DAI worth of MKR
    5: Do not burn any MKR
-start_date: 2023-01-09T16:00:00
+start_date: 2023-01-09T14:00:00
 end_date: 2023-01-12T16:00:00
 ---
 # Poll: Confirm Trial Deployment of DssKiln - January 9, 2023
